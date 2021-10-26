@@ -8,7 +8,7 @@
 
 - 🔥 Programador de Sistemas
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Jhefersontorres)
+<!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Jhefersontorres) -->
 
 
 
