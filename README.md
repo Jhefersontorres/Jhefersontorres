@@ -6,17 +6,13 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jheferson Torres</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhefersontorres&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Programador de Sistemas
+- 🔥 Desenvolvedor Fullstack Jr
+- Trabalho na aréa de TI desde 2007, iniciei como auxiliar em informática evolui e cresci na área atuando 10 anos como suporte técnico de informática 3 como analista de sistemas, em 2020 iniciei a faculdade de analise e Desenvolvimento de sistemas e recebi um convite para trabalhar como programador front end assim iniciei minha carreira na programação 
+Sou apaixonado por programação por criar coisas do zero em um simples bate papo sair ideais, sou observador em sempre tento ver o que a tecnologia poderia ajudar em alguma dor.
 
 <!-- - 🔭 I’m currently working on [Rocketseat](https://github.com/Jhefersontorres) -->
 
-
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -27,12 +23,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
