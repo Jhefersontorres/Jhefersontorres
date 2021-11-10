@@ -26,32 +26,33 @@ Sou apaixonado por programação por criar coisas do zero em um simples bate pap
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
-
 <br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Jhefersontorres&show_icons=true&theme=vision-friendly-dark" alt="Jhefersontorres's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhefersontorres&layout=compact&theme=vision-friendly-dark" alt="Jhefersontorres's most languages"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=Jhefersontorres&show_icons=true&theme=vision-friendly-dark" alt="Jhefersontorres's stats"/>
+<img width="400em"  margin-left="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhefersontorres&layout=compact&theme=vision-friendly-dark" alt="Jhefersontorres's most languages"/>
 </p>
-
-<br><br>
-
+<br>
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
+  <a href="https://www.linkedin.com/in/jhefersontorres/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  <a href="https://instagram.com/jhefersontorres" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
 <!-- <a href="https://codepen.io/Jhefersontorres" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jhefersontorres-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>-->
-<a href="https://twitter.com/jheftorres" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
+
 <a href="https://linkedin.com/in/Jhefersontorres" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/jhefersontorres" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=instagram" alt="instagram"/>
+
+<a href="https://twitter.com/jheftorres" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Jheferson Torres-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <!-- <a href="https://youtube.com/Jhefersontorres" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Jhefersontorres-05122A?style=flat&logo=youtube" alt="youtube"/>
