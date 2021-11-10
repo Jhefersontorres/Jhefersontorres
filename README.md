@@ -59,7 +59,7 @@ Sou apaixonado por programação por criar coisas do zero em um simples bate pap
 </a>-->
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=jheftorres&layout=wide&show_reply=off&show_retweet=off" />
+<img width="300em" src="https://github-readme-twitter-gazf.vercel.app/api?id=jheftorres&layout=wide&show_reply=off&show_retweet=off" />
 
 
 <!--
