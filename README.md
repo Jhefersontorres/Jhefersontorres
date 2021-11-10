@@ -30,7 +30,7 @@ Sou apaixonado por programação por criar coisas do zero em um simples bate pap
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="480em" src="https://github-readme-stats.vercel.app/api?username=Jhefersontorres&show_icons=true&theme=vision-friendly-dark" alt="Jhefersontorres's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Jhefersontorres&show_icons=true&theme=vision-friendly-dark" alt="Jhefersontorres's stats"/>
 <img width="380em"  margin-left="2em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhefersontorres&layout=compact&theme=vision-friendly-dark" alt="Jhefersontorres's most languages"/>
 </p>
 <br>
